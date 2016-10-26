@@ -15,8 +15,8 @@ Notepad Chrome extension made for convenient use
 
 ### Requirements
 
-- The Google Chrome browser
+- Google Chrome browser
 
 ### License
 
-MIT License, see LICENSE.md file
+MIT License, see [LICENSE.md] (https://github.com/ingridt123/Snap-Note/blob/master/LICENSE.txt)
