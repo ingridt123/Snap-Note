@@ -19,4 +19,4 @@ Notepad Chrome extension made for convenient use
 
 ### License
 
-MIT License, see [LICENSE.md] (https://github.com/ingridt123/Snap-Note/blob/master/LICENSE.txt)
+MIT License, see [LICENSE.md] (https://github.com/Arthelon/Snap-Note/blob/master/LICENSE.txt)
