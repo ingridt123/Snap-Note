@@ -1,6 +1,6 @@
 # Snap-Note
 
-Notepad chrome extension made for convenient use
+Notepad Chrome extension made for convenient use
 
 ### Features
 
@@ -11,8 +11,12 @@ Notepad chrome extension made for convenient use
 
 ### Installation
 
-[Download Here](https://chrome.google.com/webstore/detail/snap-note/bcddlnpbfpldhhgpjkoedhcnjchldcff?authuser=1)
+[Download on the Chrome Store](https://chrome.google.com/webstore/detail/snap-note/bcddlnpbfpldhhgpjkoedhcnjchldcff?authuser=1)
 
 ### Requirements
 
 - The Google Chrome browser
+
+### License
+
+MIT License, see LICENSE.md file
